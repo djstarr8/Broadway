@@ -11,9 +11,9 @@ body {
 }
 
 .header {
-  /*background: dimgray url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png") no-repeat center bottom;*/
-  background: dimgray url("../images/the-flatiron-building.png");
+  background: dimgray url("../images/the-flatiron-building.png") no-repeat center center;
 }
+
 footer {
   text-align: left;
   background-color: dimgray;
@@ -40,7 +40,6 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
-
 }
 
 p {
